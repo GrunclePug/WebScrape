@@ -39,7 +39,10 @@ exit status 1
 
 ## Requirements
 
-Go 1.13.1 or above (may work on lower versions, but officially unsupported).
+<ul>
+    <li>Go 1.13.1 or above (may work on lower versions, but officially unsupported).</li>
+    <li>x/net/html - install by pasting the following into your terminal: <code>go get golang.org/x/net/html</code></li>
+</ul>
 
 ## Author
 
