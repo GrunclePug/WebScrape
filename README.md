@@ -1,5 +1,9 @@
 # WebScrape
 
+[![Build Status](https://travis-ci.org/GrunclePug/WebScrape.svg?branch=master)](https://travis-ci.org/GrunclePug/WebScrape)
+[![Go Version](https://img.shields.io/badge/Go-v1.13+-informational)](https://img.shields.io/badge/Go-v1.13+-informational)
+[![Version](https://img.shields.io/badge/version-v1.0-informational)](https://img.shields.io/badge/version-v1.0-informational)
+
 A web scraper built in Go
 
 ## What is it?
